@@ -6,7 +6,7 @@
         {
             foreach (var arg in args)
             {
-                Console.Write(arg);
+                Console.Write($"{arg} ");
             }
             Console.WriteLine();
 
